@@ -37,4 +37,5 @@ else{echo "nothing was selected.";}
         
     </form>
     
-</body
+	</body>
+	</HTML>
